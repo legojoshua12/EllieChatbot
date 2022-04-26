@@ -38,5 +38,10 @@
     "tag": "contact",
     "patterns": ["contact", "contact teacher", "contact details", "staff"],
     "responses": ["To get in contact with the teaching staff of the university, check out the contact section in the University website"]
+  },
+  {
+    "tag": "insult",
+    "patterns": ["fuck you", "i hate you", "your mom's a whore", "go fuck yourself", "i despise you"],
+    "responses": ["Your mom's a whore!"]
   }
 ]}
